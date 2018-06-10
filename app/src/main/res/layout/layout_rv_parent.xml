@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/pb_common" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_child_stories"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/storiesStatus"
+        android:contentDescription="@null" />
+
+
+    <LinearLayout
+        android:id="@+id/actions"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="56dp"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/reverseparent"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2" />
+
+        <View
+            android:id="@+id/centerParent"
+            android:layout_width="0dp"
+
+            android:layout_height="match_parent"
+            android:layout_weight="6" />
+
+        <View
+            android:id="@+id/skipParent"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2" />
+    </LinearLayout>
+
+    <com.r00786.stories.StoryStatusView
+        android:id="@+id/storiesStatusParent"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_gravity="top"
+        android:layout_marginTop="8dp" />
+
+
+</RelativeLayout>

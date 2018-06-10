@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ss_colorPrimary">#9E9E9E</color>
+    <color name="ss_colorPrimaryDark">#616161</color>
+    <color name="ss_colorAccent">#95ff00</color>
+
+    <color name="ss_progress_startColor">#ffffd300</color>
+    <color name="ss_progress_endColor">#ffffcb00</color>
+    <color name="ss_progress_centerColor">#ffffb600</color>
+
+    <color name="ss_secondaryProgress_startColor">#80ffd300</color>
+    <color name="ss_secondaryProgress_endColor">#a0ffcb00</color>
+    <color name="ss_secondaryProgress_centerColor">#80ffb600</color>
+
+    <color name="ss_background_startColor">#ff9d9e9d</color>
+    <color name="ss_background_endColor">#ff747674</color>
+    <color name="ss_background_centerColor">#ff5a5d5a</color>
+    <color name="btn_cancel_color">#999999</color>
+    <color name="btn_confirm_color">#303F9F</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#87ceeb</color>
+    <color name="pin_normal">#6B767E</color>
+    <color name="lightGray">#CCCCCC</color>
+    <color name="green">#008000</color>
+    <color name="control_background">#cc4285f4</color>
+    <color name="ad_white_solid">#ffffff</color>
+    <color name="ad_white_55">#b2ffffff</color>
+    <color name="ad_black_70">#bf000000</color>
+    <color name="ad_black_solid">#ff000000</color>
+    <color name="ad_blue_6">#ff0084bf</color>
+    <color name="ad_blue_7">#ff0073b1</color>
+    <color name="ad_blue_8">#ff006097</color>
+    <color name="ad_blue_9">#ff004b7c</color>
+    <color name="filter_tab_inactive">#000000</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="bright_pink">#FF007F</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF7F00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="spring_green">#00FF7F</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="azure">#007FFF</color>
+    <color name="violet">#7F00FF</color>
+    <color name="magenta">#FF00FF</color>
+</resources>
